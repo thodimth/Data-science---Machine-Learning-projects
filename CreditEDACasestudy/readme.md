@@ -16,8 +16,8 @@
  
 
   - The data given contains the information about the loan application at the time of applying for the loan. It contains two types of scenarios:
-  > The client with payment difficulties: he/she had late payment more than X days on at least one of the first Y instalments of the loan in our sample.<br>
-  > All other cases: All other cases when the payment is paid on time.
+  > 1.The client with payment difficulties: he/she had late payment more than X days on at least one of the first Y instalments of the loan in our sample.<br>
+  > 2.All other cases: All other cases when the payment is paid on time.
 
   - When a client applies for a loan, there are four types of decisions that could be taken by the client/company):
 
