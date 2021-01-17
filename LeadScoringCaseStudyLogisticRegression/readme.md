@@ -1,2 +1,2 @@
 
-![](leadconversion.jpg)
+![](leadConversion.PNG)
