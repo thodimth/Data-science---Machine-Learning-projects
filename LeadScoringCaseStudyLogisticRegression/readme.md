@@ -1,5 +1,5 @@
 
-![](leadconversionfunnel.PNG)
+![](leadfunnel.PNG)
 
 
 **Problem Statement**
