@@ -51,6 +51,8 @@ In this project, you will define high-value customers based on a certain metric 
 
 In this case, since you are working over a four-month window, the first two months are the ‘good’ phase, the third month is the ‘action’ phase, while the fourth month is the ‘churn’ phase.
 
+-- **So lets start with Analysis and Model Building**
+
  
 
  
