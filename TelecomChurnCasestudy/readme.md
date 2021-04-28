@@ -25,7 +25,7 @@ In this project, you will use the usage-based definition to define churn.
 
  
 
-High-value churn
+- High-value churn
 In the Indian and the Southeast Asian market, approximately 80% of revenue comes from the top 20% customers (called high-value customers). Thus, if we can reduce churn of the high-value customers, we will be able to reduce significant revenue leakage.
 
  
