@@ -1,5 +1,5 @@
 
-<img src="TelecomChurn.jpg" width="500"/>
+<img src="TelecomChurn.jpg" title="Customer Churn" width="500"/>
 
 **Problem Statement**
 
