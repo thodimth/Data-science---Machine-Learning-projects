@@ -32,7 +32,7 @@ In the Indian and the Southeast Asian market, approximately 80% of revenue comes
 
 In this project, you will define high-value customers based on a certain metric (mentioned later below) and predict churn only on high-value customers.
 
-<img src="TelecomChurn.jpg" title="Business-Objectives" width="500"/>
+<img src="Business-Objectives.jpg" title="Business-Objectives" width="500"/>
 
 - **Understanding the business objective and the data:**
 >The dataset contains customer-level information for a span of four consecutive months - June, July, August and September. The months are encoded as 6, 7, 8 and 9, respectively. 
