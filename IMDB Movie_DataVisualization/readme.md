@@ -1,7 +1,7 @@
 
 <img src="Movie.png" title="IMDB Data Visualisation Churn" width="500"/>
 
-**Attached ipynb holds only the Visualization part of the data and inisghts of the data are derived n the file: **
+**Attached ipynb holds only the Visualization part of the data and inisghts of the data are derived in the file: IMDb+Movie+Assignment_CompressedFile.ipynb**
 
 **Problem Statement**
 
